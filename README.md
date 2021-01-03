@@ -1,3 +1,9 @@
+# Wallpaper Store
+
+![Wallpaper Store Logo](./src/images/Readme.png)
+
+Select wallpaper for your Desktop or Phone
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
